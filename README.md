@@ -1,4 +1,4 @@
-# vue-starter
+# vue-js-unit-converter
 
 ## Project setup
 ```
@@ -17,4 +17,4 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# vue-js-unit-converter
+
